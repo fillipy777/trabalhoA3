@@ -1,3 +1,6 @@
 # oficina-spring-boot.
 Nome dos integrantes: 
-.
+- ARTHUR MACENA DOS SANTOS
+- GABRIEL DE SOUZA ALVES
+- LUCAS CAUÃ SOARES QUEIROZ
+- LUIZ FILLIPY DA MATA ROCHA
